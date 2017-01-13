@@ -5,11 +5,11 @@ public class Pattern2
 	{
 		int sp,j,k;
 		for(sp=4-i;sp>0;sp--)
-			System.out.print(" ");
+			System.out.print("  ");
 		for(j=1;j<=i;j++)
-			System.out.print(j);
+			System.out.print(j+" ");
 		for(k=i-1;k>0;k--)
-			System.out.print(k);
+			System.out.print(k+" ");
 		System.out.println();
 	}
 	
