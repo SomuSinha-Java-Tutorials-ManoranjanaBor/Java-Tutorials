@@ -1,3 +1,6 @@
+/**
+ * Find the average length of words after inputting a statement.
+ */
 import java.util.*;
 public class averageOfWords 
 {
