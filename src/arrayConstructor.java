@@ -1,3 +1,7 @@
+/**
+ * 	Program to show how an array can be passed to a constructor.
+ */
+
 import java.io.*;
 public class arrayConstructor 
 {
