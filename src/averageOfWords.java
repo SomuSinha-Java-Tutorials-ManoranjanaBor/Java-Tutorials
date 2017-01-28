@@ -26,7 +26,7 @@ public class averageOfWords
 				sp=st.length();
 			st1=st.substring(si,sp);
 			sum+=st1.length();
-			if(st1.length()>0)
+			if(st1.length()>0)	//	Only increase the number of words if the substring is not empty, i.e., there are no consecutive spaces. 
 				nw++;
 		}
 		
